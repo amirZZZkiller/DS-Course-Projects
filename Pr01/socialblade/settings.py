@@ -19,7 +19,7 @@ ROBOTSTXT_OBEY = False
 CONCURRENT_REQUESTS = 16
 
 # Configure a delay for requests for the same website (default: 0)
-DOWNLOAD_DELAY = 1
+DOWNLOAD_DELAY = 1.5
 
 # Disable cookies (enabled by default)
 COOKIES_ENABLED = False
