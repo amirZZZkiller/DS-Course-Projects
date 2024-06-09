@@ -1,0 +1,12 @@
+Content-Length: 167
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: max-age=3600
+Cf-Ray: 8864f678ba898c3e-FRA
+Content-Type: text/html
+Date: Sun, 19 May 2024 15:01:31 GMT
+Expires: Sun, 19 May 2024 16:01:31 GMT
+Location: https://socialblade.com/youtube/s?q=ZZTheAnimeSRBIJA
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Y%2FsQvM%2FSx26QsmxP4%2F3CtxGvPH3fpu1aPyaVPX4PBh4ooL4glDH%2Fts0bahSuLX%2Fl5UotJEd%2FMWwstGg0jVPacZh81DQPYN%2FS62exrsV3Jua1I%2B6G6AYJm9yyGubsX6Cspw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
